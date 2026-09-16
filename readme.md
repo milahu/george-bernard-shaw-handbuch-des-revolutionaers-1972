@@ -1,12 +1,39 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# George Bernard Shaw - Handbuch des Revolutionärs (1972)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![George Bernard Shaw - Handbuch des Revolutionärs (1972)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3518013092
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Handbuch des Revolutionärs
+
+George Bernard Shaw (Autor),
+Annemarie Böll (Übersetzer),
+Heinrich Böll (Übersetzer)
+
+Wer zuviel Wahrheit sagt, der ist des Henkers sicher.
+
+Shaws berühmter Anhang zu »Mensch und Übermensch«,
+das Handbuch und die Aphorismen des Revolutionärs,
+liegt in neuer deutscher Übertragung vor.
+
+Winston Chur­chill bezeichnete Shaw als einen »Heiligen, Weisen und Narren«,
+Brecht nannte ihn einen »Terroristen«, freilich »mit der ungewöhnlichen Waffe des Humors«.
+Diese Kennzeichnungen treffen in besonderer Weise auf den Autor des »Handbuchs« zu.
+Shaws Texte sind genial, geist­voll, witzig, stimmig und — für die siebziger Jahre — durchaus aktuell.
+Manche Parolen unserer Jugend von heute
+(»Jeder Mensch unter dreißig, der einige Kenntnis der bestehenden Gesellschafts­ordnung besitzt und kein Revolutionär ist, ist minder­wertig«
+oder »Jeder Mann über vierzig ist ein Schuft«)
+stammen — von Shaw.
+
+- Herausgeber: Suhrkamp Verlag
+- Erscheinungstermin: 1972
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 136 Seiten
+- Format: Gebundene Ausgabe
+- ISBN-10: 3518013092
+- ISBN-13: 9783518013090
 
 </blockquote>
 
@@ -20,11 +47,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/george-bernard-shaw-handbuch-des-revolutionaers-1972
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/george-bernard-shaw-handbuch-des-revolutionaers-1972
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/george-bernard-shaw-handbuch-des-revolutionaers-1972
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/george-bernard-shaw-handbuch-des-revolutionaers-1972
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/george-bernard-shaw-handbuch-des-revolutionaers-1972
 
 
 

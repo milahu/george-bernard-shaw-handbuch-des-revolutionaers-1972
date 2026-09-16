@@ -1865,6 +1865,7 @@ def main():
                 try:
                     future.result()
                 except Exception as exc:
+                    print() # end line of tqdm progress bar
                     print(f"Error processing {fname}: {exc}")
                     raise
                 finally:
